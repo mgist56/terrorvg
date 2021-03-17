@@ -11,7 +11,7 @@ It's hard to predict how long the process will take. As mentioned previously, we
   * Weeks 5-7: We will convert our basic game into a world fitting the *Terror* theme. We will begin work on implementing objectives and progression.
   * Weeks 8-12: We will refine the game's objectives so that there is a coherent narrative. We will (hopefully) create small minigames where a player can fulfill tasks relevant to the story that would not be possible through the simple 2D walk system. Finally, we can playtest the game and make improvements, if time allows.
 
-### Measure of Success:###
+### Measure of Success: ###
  Make a video game that reflects at least the first episode of AMC’s The Terror that can be controlled by a raspberry pi controller.
 
 ### Hardware Design ###
